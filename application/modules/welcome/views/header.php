@@ -8,7 +8,7 @@
 
         <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-        <link rel="icon" type="image/png" href="<?= base_url('/assets/back/images/icons/logo.png'); ?>"/>
+        <link rel="icon" type="image/png" href="<?= base_url('/assets/back/images/icons/paperclip.ico'); ?>"/>
 
         <!-- bootstrap & fontawesome -->
         <link rel="stylesheet" href="<?= base_url('/assets/back/css/bootstrap.min.css'); ?>" />
@@ -61,8 +61,8 @@
                 <div class="navbar-header pull-left">
                     <a href="index.html" class="navbar-brand">
                         <small>
-                            <i class="fa fa-leaf"></i>
-                            Ace Admin
+                            <i class="fa fa-paperclip"></i>
+                            Space Admin
                         </small>
                     </a>
                 </div>

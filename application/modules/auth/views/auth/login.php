@@ -36,6 +36,7 @@
 
     <meta name="description" content="User login page" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="icon" type="image/png" href="<?= base_url('/assets/back/images/icons/paperclip.ico'); ?>"/>
 
     <!-- bootstrap & fontawesome -->
     <link rel="stylesheet" href="<?= base_url('/assets/back/css/bootstrap.min.css'); ?>" />
@@ -72,11 +73,11 @@
             <div class="login-container">
               <div class="center">
                 <h1>
-                  <i class="ace-icon glyphicon glyphicon-tint green"></i>
-                  <span class="red">Ace</span>
+                  <i class="ace-icon glyphicon glyphicon-paperclip blue"></i>
+                  <span class="red">Your</span>
                   <span class="white" id="id-text2">Application</span>
                 </h1>
-                <h4 class="blue" id="id-company-text">&copy; Company Name</h4>
+                <h4 class="blue" id="id-company-text">&copy; Our Company</h4>
               </div>
 
               <div class="space-6"></div>
